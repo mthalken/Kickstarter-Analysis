@@ -1,4 +1,4 @@
-# **Challenge 1: Excel**
+# **Excel**
 ## Review of Theater Outcomes by Launch Date and Goals 
 ### The purpose of this analysis was to give a visual representation of successful, failed, and canceled theater campaigns by individual start months, as well as percentage of successful, failed, and canceled campaigns within specific goal value amounts. 
 ## Analysis and Challenges
